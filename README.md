@@ -76,8 +76,8 @@ Parking garages often rely on manual or informal methods to track which spaces a
 ```
 team7-parking-garage-counter-system/
 ├── README.md
-├── Documentation/    Project documentation and writeups
-├── Flowcharts/       Program flow and logic diagrams
-├── SourceCode/       Python source files
-└── Screenshots/      Screenshots of the program running
+├── documentation/    Project documentation and writeups
+├── flowcharts/       Program flow and logic diagrams
+├── sourcecode/       Python source files
+└── screenshots/      Screenshots of the program running
 ```
