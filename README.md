@@ -8,7 +8,7 @@ A console-based Python application that helps a parking garage monitor the usage
 
 The members of **Group 7** are:
 
-- **José Leyva**
+- **José Leiva**
 - **Julio Mayedo Fernández**
 - **William Riera**
 
